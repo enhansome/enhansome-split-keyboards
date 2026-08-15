@@ -289,7 +289,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8020
+            "stars": 8027
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4926
+            "stars": 4927
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-02-28T13:51:49Z",
             "owner": "jhelvy",
             "repo": "splitKbCompare",
-            "stars": 346
+            "stars": 347
           }
         },
         {
@@ -365,7 +365,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8020
+            "stars": 8027
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4926
+            "stars": 4927
           }
         },
         {
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:22:03.133Z",
+    "last_updated": "2026-08-15T22:20:32.016Z",
     "original_repository": "diimdeep/awesome-split-keyboards",
     "original_repository_sha": "bd2c30408f26b6a0b6fa13e58b6c5ff5436beccc",
     "enhanced_repository": "enhansome/enhansome-split-keyboards",
