@@ -148,7 +148,7 @@
 
 ## Redox
 
-<https://github.com/mattdibi/redox-keyboard> ⭐ 1,983 | 🐛 33 | 📅 2026-05-26
+<https://github.com/mattdibi/redox-keyboard> ⭐ 1,984 | 🐛 33 | 📅 2026-05-26
 <https://github.com/Lenbok/scad-redox-case> ⭐ 237 | 🐛 1 | 🌐 OpenSCAD | 📅 2025-11-03
 
 <img src="img/Redox.jpg" width="400px"/> <img src="img/Redox_PCB.jpg" width="400px"/>
@@ -178,7 +178,7 @@
 
 ## Corne
 
-<https://github.com/foostan/crkbd/> ⭐ 7,603 | 🐛 23 | 🌐 Makefile | 📅 2025-05-10
+<https://github.com/foostan/crkbd/> ⭐ 7,605 | 🐛 23 | 🌐 Makefile | 📅 2025-05-10
 
 <img src="img/HeliDox.jpg" width="400px"/> <img src="img/HeliDox_PCB.jpg" width="400px"/>
 
@@ -204,7 +204,7 @@
 
 ## Chimera Ergo
 
-<https://github.com/GlenPickle/Chimera> ⭐ 177 | 🐛 3 | 📅 2019-02-09
+<https://github.com/GlenPickle/Chimera> ⭐ 178 | 🐛 3 | 📅 2019-02-09
 
 <img src="img/Chimera.jpg" width="400px"/>
 
@@ -212,7 +212,7 @@
 
 <https://splitkb.com/products/kyria-kit-rev1-0>
 <https://splitkb.com/products/kyria-custom-build>
-<https://github.com/splitkb/kyria> ⭐ 356 | 🐛 11 | 📅 2025-02-05
+<https://github.com/splitkb/kyria> ⭐ 358 | 🐛 11 | 📅 2025-02-05
 
 <img src="img/Kyria.jpg" width="400px"/>
 
@@ -261,7 +261,7 @@
 
 ## Dactyl
 
-<https://github.com/adereth/dactyl-keyboard> ⭐ 3,154 | 🐛 46 | 🌐 OpenSCAD | 📅 2021-01-17
+<https://github.com/adereth/dactyl-keyboard> ⭐ 3,156 | 🐛 46 | 🌐 OpenSCAD | 📅 2021-01-17
 
 <img src="img/Dactyl.jpg" width="400px"/>
 
@@ -395,7 +395,7 @@
 
 ## ErgoDash
 
-<https://github.com/omkbd/ErgoDash> ⭐ 723 | 🐛 14 | 📅 2022-05-15
+<https://github.com/omkbd/ErgoDash> ⭐ 724 | 🐛 14 | 📅 2022-05-15
 
 <img src="img/Ergodash.jpg" width="400px"/>
 
@@ -408,7 +408,7 @@
 
 ## Lily58
 
-<https://github.com/kata0510/Lily58> ⭐ 2,274 | 🐛 23 | 📅 2025-12-26
+<https://github.com/kata0510/Lily58> ⭐ 2,275 | 🐛 23 | 📅 2025-12-26
 
 <img src="img/lily58_keyboard.jpg" width="400px"/>
 
@@ -457,8 +457,8 @@
 
 ## Build your own keyboard (Do it yourself - DIY)
 
-* <https://github.com/monostable/awesome-electronics> ⭐ 8,030 | 🐛 29 | 📅 2026-01-05
-* <https://github.com/ruiqimao/keyboard-pcb-guide> ⭐ 4,929 | 🐛 22 | 📅 2024-07-02
+* <https://github.com/monostable/awesome-electronics> ⭐ 8,034 | 🐛 29 | 📅 2026-01-05
+* <https://github.com/ruiqimao/keyboard-pcb-guide> ⭐ 4,930 | 🐛 22 | 📅 2024-07-02
 * <https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md> ⭐ 641 | 🐛 10 | 🌐 Makefile | 📅 2023-07-06
 * [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/), [github](https://github.com/jhelvy/splitKbCompare) ⭐ 347 | 🐛 26 | 🌐 R | 📅 2026-02-28
 * <https://github.com/adius/awesome-laser-cutting> ⭐ 107 | 🐛 2 | 📅 2026-04-30
@@ -498,8 +498,8 @@
 
 ### Electronics
 
-* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,030 | 🐛 29 | 📅 2026-01-05
-* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,929 | 🐛 22 | 📅 2024-07-02
+* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,034 | 🐛 29 | 📅 2026-01-05
+* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,930 | 🐛 22 | 📅 2024-07-02
 * [KiCad footprint library](https://github.com/daprice/keyswitches.pretty) ⭐ 1,039 | 🐛 5 | 📅 2021-10-20
 * [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 * [Hard-Wiring How-To](https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To)
@@ -643,4 +643,4 @@ Contributions welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
