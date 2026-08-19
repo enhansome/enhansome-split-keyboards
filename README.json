@@ -1,282 +1,7 @@
 {
   "items": [
     {
-      "description": "https://www.ergodox.io Tenting",
-      "items": [],
-      "title": "Ergodox"
-    },
-    {
-      "description": "https://input.club/devices/infinity-ergodox/\n",
-      "items": [],
-      "title": "Ergodox infinity"
-    },
-    {
-      "description": "https://ergodox-ez.com Tenting\n",
-      "items": [],
-      "title": "ErgoDox EZ"
-    },
-    {
-      "description": "PCB (aliexpress) Case (aliexpres)\n",
-      "items": [],
-      "title": "Ergodone"
-    },
-    {
-      "description": "https://github.com/jpconstantineau/ErgoTravel",
-      "items": [],
-      "title": "Ergotravel"
-    },
-    {
-      "description": "https://github.com/Pekaso/fortitude60 https://yushakobo.jp/shop/fortitude60\n",
-      "items": [],
-      "title": "Fortitude60"
-    },
-    {
-      "description": "https://github.com/peej/for-science-keyboard\n",
-      "items": [],
-      "title": "For Science"
-    },
-    {
-      "description": "https://keeb.io/collections/frontpage/products/fourier-40-split-staggered-keyboard",
-      "items": [],
-      "title": "Fourier 40"
-    },
-    {
-      "description": "gboards.ca\nhttps://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi\n",
-      "items": [],
-      "title": "Georgi"
-    },
-    {
-      "description": "gboards.cafirmwarereddit\n",
-      "items": [],
-      "title": "Gergo"
-    },
-    {
-      "description": "https://github.com/mattdibi/redox-keyboard https://github.com/Lenbok/scad-redox-case\n",
-      "items": [],
-      "title": "Redox"
-    },
-    {
-      "description": "https://github.com/nicinabox/lets-split-guide https://www.maple-computing.com/collections/frontpage/products/lets-split-eh-leftovers http://groupbuys.mechboards.co.uk/shop/lets-split-eh-pcbs/ https://mehkee.com/products/lets-split-pcb",
-      "items": [],
-      "title": "Let's Split"
-    },
-    {
-      "description": "https://github.com/That-Canadian/MiniDox_PCB https://github.com/dotdash32/cases/tree/master/Minidox",
-      "items": [],
-      "title": "Minidox"
-    },
-    {
-      "description": "https://github.com/MakotoKurauchi/helix https://yushakobo.jp/shop/helix-keyboard-kit/",
-      "items": [],
-      "title": "Helix"
-    },
-    {
-      "description": "https://github.com/foostan/crkbd/\n",
-      "items": [],
-      "title": "Corne"
-    },
-    {
-      "description": "https://www.rgbkb.net/products/zen-keyboard https://mykeyboard.eu/catalogue/category/keyboard-kits/zen-keyboard_55/\nhttps://legonut.gitbooks.io/zen-keyboard/content/ https://legonut.gitbooks.io/zen-keyboard/content/flashing.html https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md\nhttps://www.youtube.com/watch?v=1tDWJe_P5PQ\n",
-      "items": [],
-      "title": "Zen"
-    },
-    {
-      "description": "https://www.rgbkb.net https://www.rgbkb.net/collections/sol-2",
-      "items": [],
-      "title": "Sol"
-    },
-    {
-      "description": "https://github.com/GlenPickle/Chimera",
-      "items": [],
-      "title": "Chimera Ergo"
-    },
-    {
-      "description": "https://splitkb.com/products/kyria-kit-rev1-0 https://splitkb.com/products/kyria-custom-build https://github.com/splitkb/kyria",
-      "items": [],
-      "title": "Kyria"
-    },
-    {
-      "description": "https://candykeys.com/product/iris-pcb-kit-v-3 https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris https://github.com/keebio/iris-case",
-      "items": [],
-      "title": "Iris"
-    },
-    {
-      "description": "https://keeb.io/products/levinson-lets-split-w-led-backlight https://keeb.io/products/levinson-keyboard-case-plates https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md",
-      "items": [],
-      "title": "Levinson"
-    },
-    {
-      "description": "https://keeb.io/products/viterbi-keyboard-pcbs-5x7-70-split-ortholinear https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md",
-      "items": [],
-      "title": "Viterbi"
-    },
-    {
-      "description": "https://keeb.io/collections/frontpage/products/nyquist-keyboard?variant=48309345990\n",
-      "items": [],
-      "title": "Nyquist"
-    },
-    {
-      "description": "https://keeb.io/products/bfo-9000-keyboard-customizable-full-size-split-ortholinear\n",
-      "items": [],
-      "title": "BFO-9000"
-    },
-    {
-      "description": "https://github.com/reversebias/mitosis-hardware https://github.com/reversebias/mitosis",
-      "items": [],
-      "title": "Mitosis"
-    },
-    {
-      "description": "https://github.com/adereth/dactyl-keyboard",
-      "items": [],
-      "title": "Dactyl"
-    },
-    {
-      "description": "https://github.com/tshort/dactyl-keyboard",
-      "items": [],
-      "title": "Dactyl-ManuForm"
-    },
-    {
-      "description": "https://github.com/technomancy/atreus",
-      "items": [],
-      "title": "Atreus"
-    },
-    {
-      "description": "https://github.com/profet23/atreus62/",
-      "items": [],
-      "title": "Atreus62"
-    },
-    {
-      "description": "https://github.com/dekonnection/atreis https://www.reddit.com/r/MechanicalKeyboards/comments/8gt4cj/photos_the_atreis_an_unsplitted_iris/",
-      "items": [],
-      "title": "Atreis"
-    },
-    {
-      "description": "https://github.com/FSund/pteron-keyboard https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/",
-      "items": [],
-      "title": "Pteron"
-    },
-    {
-      "description": "http://catboard.klava.org/ https://github.com/ibnteo/catboard https://habr.com/post/185500/\n",
-      "items": [],
-      "title": "CatBoard ]["
-    },
-    {
-      "description": "thingiverse",
-      "items": [],
-      "title": "Arke"
-    },
-    {
-      "description": "https://shop.keyboard.io/",
-      "items": [],
-      "title": "Keyboard.io Model01"
-    },
-    {
-      "description": "https://www.amazon.co.uk/Koolertron-Programmable-Mechanical-Keyboard-Ergonomic/dp/B076FTNXDX https://shop114100401.world.taobao.com http://xahlee.info/kbd/ly092_mini_keyboard.html",
-      "items": [],
-      "title": "SmartYao/Koolertron Keyboard"
-    },
-    {
-      "description": "http://www.mistelkeyboard.com/keyboards/",
-      "items": [],
-      "title": "Mistel Barocco"
-    },
-    {
-      "description": "https://www.massdrop.com/buy/ve-a http://xahlee.info/kbd/VE.A_keyboard.html",
-      "items": [],
-      "title": "VE.A"
-    },
-    {
-      "description": "https://ultimatehackingkeyboard.com",
-      "items": [],
-      "title": "Ultimate Hacking Keyboard"
-    },
-    {
-      "description": "http://www.x-bows.com/",
-      "items": [],
-      "title": "X-Bows"
-    },
-    {
-      "description": "https://www.kinesis-ergo.com/shop/advantage2/",
-      "items": [],
-      "title": "Kinesis Advantage"
-    },
-    {
-      "description": "https://www.kinesis-ergo.com/shop/freestyle-pro/",
-      "items": [],
-      "title": "Kinesis Freestyle Pro"
-    },
-    {
-      "description": "https://matias.ca/ergopro/pc/",
-      "items": [],
-      "title": "Matias Ergo Pro"
-    },
-    {
-      "description": "goldtouch.com",
-      "items": [],
-      "title": "Goldtouch Go!2"
-    },
-    {
-      "description": "https://en.wikipedia.org/wiki/Maltron",
-      "items": [],
-      "title": "Maltron"
-    },
-    {
-      "description": "http://xahlee.info/kbd/Cherry_Ergoplus_keyboard.html https://deskthority.net/photos-f62/cherry-mx5000-teardown-restoration-g80-5000-haade-t16661.html",
-      "items": [],
-      "title": "Cherry ErgoPlus MX 5000 (G80-5000)"
-    },
-    {
-      "description": "https://www.dygma.com/raise/\n",
-      "items": [],
-      "title": "Dygma Raise"
-    },
-    {
-      "description": "https://github.com/omkbd/ErgoDash",
-      "items": [],
-      "title": "ErgoDash"
-    },
-    {
-      "description": "http://www.beyondq.com/",
-      "items": [],
-      "title": "Dumang DK6"
-    },
-    {
-      "description": "https://github.com/kata0510/Lily58",
-      "items": [],
-      "title": "Lily58"
-    },
-    {
-      "description": "https://www.r-go-tools.com/products/ergonomic-keyboards/r-go-split/",
-      "items": [],
-      "title": "R-Go Split"
-    },
-    {
-      "description": "https://www.zsa.io/moonlander/",
-      "items": [],
-      "title": "Moonlander (Mark I)"
-    },
-    {
-      "description": "https://josefadamcik.github.io/SofleKeyboard/",
-      "items": [],
-      "title": "Sofle"
-    },
-    {
-      "description": "https://github.com/tamanishi/Pinky4\nhttps://github.com/tamanishi/Pinky3",
-      "items": [],
-      "title": "Pinky"
-    },
-    {
-      "description": "https://github.com/swanmatch/colosseum60\nhttps://github.com/swanmatch/MxLEDBitPCB",
-      "items": [],
-      "title": "Colosseum"
-    },
-    {
-      "description": "https://github.com/hsgw/ergoinu",
-      "items": [],
-      "title": "Ergoinu"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -285,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64177015,
             "language": null,
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
@@ -299,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78909052,
             "language": null,
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4930
+            "stars": 4931
           }
         },
         {
@@ -313,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81631285,
             "language": "Makefile",
             "last_commit": "2023-07-06T05:22:26Z",
             "owner": "nicinabox",
@@ -327,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241105575,
             "language": "R",
             "last_commit": "2026-02-28T13:51:49Z",
             "owner": "jhelvy",
@@ -341,88 +70,74 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50352363,
             "language": null,
             "last_commit": "2026-04-30T13:56:53Z",
             "owner": "ad-si",
             "repo": "awesome-laser-cutting",
             "stars": 107
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Electronics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64177015,
+                "language": null,
+                "last_commit": "2026-01-05T18:43:02Z",
+                "owner": "kitspace",
+                "repo": "awesome-electronics",
+                "stars": 8034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Keyboard PCB Guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78909052,
+                "language": null,
+                "last_commit": "2024-07-02T01:32:39Z",
+                "owner": "ruiqimao",
+                "repo": "keyboard-pcb-guide",
+                "stars": 4931
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KiCad footprint library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126096628,
+                "language": null,
+                "last_commit": "2021-10-20T22:38:20Z",
+                "owner": "daprice",
+                "repo": "keyswitches.pretty",
+                "stars": 1039
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Electronics"
         }
       ],
       "title": "Build your own keyboard (Do it yourself - DIY)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome Electronics",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-05T18:43:02Z",
-            "owner": "kitspace",
-            "repo": "awesome-electronics",
-            "stars": 8034
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Keyboard PCB Guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-07-02T01:32:39Z",
-            "owner": "ruiqimao",
-            "repo": "keyboard-pcb-guide",
-            "stars": 4930
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KiCad footprint library",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-10-20T22:38:20Z",
-            "owner": "daprice",
-            "repo": "keyswitches.pretty",
-            "stars": 1039
-          }
-        }
-      ],
-      "title": "Electronics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Community"
-    },
-    {
-      "description": "You may also want to check out the Split Keyboards spreadsheet, maintained by /u/dnlglsn.",
-      "items": [],
-      "title": "More split keyboards"
-    },
-    {
-      "description": "Contributions welcome!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:22:44.422Z",
+    "last_updated": "2026-08-19T12:56:20.586Z",
     "original_repository": "diimdeep/awesome-split-keyboards",
+    "original_repository_id": 144284339,
     "original_repository_sha": "bd2c30408f26b6a0b6fa13e58b6c5ff5436beccc",
     "enhanced_repository": "enhansome/enhansome-split-keyboards",
     "enhanced_repository_description": null,
