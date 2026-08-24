@@ -78,7 +78,7 @@
             "last_commit": "2026-08-21T20:39:16Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20655
+            "stars": 20657
           }
         }
       ],
@@ -183,7 +183,7 @@
             "last_commit": "2025-05-10T16:33:06Z",
             "owner": "foostan",
             "repo": "crkbd",
-            "stars": 7619
+            "stars": 7620
           }
         }
       ],
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-21T20:39:16Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20655
+            "stars": 20657
           }
         }
       ],
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-21T20:39:16Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20655
+            "stars": 20657
           }
         }
       ],
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-21T20:39:16Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20655
+            "stars": 20657
           }
         }
       ],
@@ -309,7 +309,7 @@
             "last_commit": "2026-08-21T20:39:16Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20655
+            "stars": 20657
           }
         }
       ],
@@ -498,7 +498,7 @@
             "last_commit": "2025-12-26T13:21:12Z",
             "owner": "kata0510",
             "repo": "Lily58",
-            "stars": 2282
+            "stars": 2283
           }
         }
       ],
@@ -591,7 +591,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8057
+            "stars": 8062
           }
         },
         {
@@ -697,7 +697,7 @@
                 "last_commit": "2026-01-05T18:43:02Z",
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8057
+                "stars": 8062
               }
             },
             {
@@ -776,7 +776,7 @@
                     "last_commit": "2026-08-21T20:39:16Z",
                     "owner": "qmk",
                     "repo": "qmk_firmware",
-                    "stars": 20655
+                    "stars": 20657
                   }
                 },
                 {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:53:40.250Z",
+    "last_updated": "2026-08-24T22:25:36.468Z",
     "original_repository": "diimdeep/awesome-split-keyboards",
     "original_repository_id": 144284339,
     "original_repository_sha": "bd2c30408f26b6a0b6fa13e58b6c5ff5436beccc",
