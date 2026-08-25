@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/jpconstantineau/ErgoTravel",
+          "title": "jpconstantineau/ErgoTravel",
           "description": null,
           "children": [],
           "repo_info": {
@@ -26,7 +26,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Pekaso/fortitude60",
+          "title": "Pekaso/fortitude60",
           "description": "https://yushakobo.jp/shop/fortitude60",
           "children": [],
           "repo_info": {
@@ -47,7 +47,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/peej/for-science-keyboard",
+          "title": "peej/for-science-keyboard",
           "description": null,
           "children": [],
           "repo_info": {
@@ -68,17 +68,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi",
+          "title": "qmk/qmk_firmware",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 27737393,
             "language": "C",
-            "last_commit": "2026-08-21T20:39:16Z",
+            "last_commit": "2026-08-24T23:41:32Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20657
+            "stars": 20658
           }
         }
       ],
@@ -89,7 +89,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/mattdibi/redox-keyboard",
+          "title": "mattdibi/redox-keyboard",
           "description": "https://github.com/Lenbok/scad-redox-case",
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/nicinabox/lets-split-guide",
+          "title": "nicinabox/lets-split-guide",
           "description": "https://www.maple-computing.com/collections/frontpage/products/lets-split-eh-leftovers http://groupbuys.mechboards.co.uk/shop/lets-split-eh-pcbs/ https://mehkee.com/products/lets-split-pcb",
           "children": [],
           "repo_info": {
@@ -131,7 +131,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/That-Canadian/MiniDox_PCB",
+          "title": "That-Canadian/MiniDox_PCB",
           "description": "https://github.com/dotdash32/cases/tree/master/Minidox",
           "children": [],
           "repo_info": {
@@ -152,7 +152,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/MakotoKurauchi/helix",
+          "title": "MakotoKurauchi/helix",
           "description": "https://yushakobo.jp/shop/helix-keyboard-kit/",
           "children": [],
           "repo_info": {
@@ -173,7 +173,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/foostan/crkbd/",
+          "title": "foostan/crkbd",
           "description": null,
           "children": [],
           "repo_info": {
@@ -183,7 +183,7 @@
             "last_commit": "2025-05-10T16:33:06Z",
             "owner": "foostan",
             "repo": "crkbd",
-            "stars": 7620
+            "stars": 7621
           }
         }
       ],
@@ -194,17 +194,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://legonut.gitbooks.io/zen-keyboard/content/",
+          "title": "qmk/qmk_firmware",
           "description": "https://legonut.gitbooks.io/zen-keyboard/content/flashing.html https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 27737393,
             "language": "C",
-            "last_commit": "2026-08-21T20:39:16Z",
+            "last_commit": "2026-08-24T23:41:32Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20657
+            "stars": 20658
           }
         }
       ],
@@ -215,7 +215,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/GlenPickle/Chimera",
+          "title": "jawn-smith/Chimera",
           "description": null,
           "children": [],
           "repo_info": {
@@ -236,7 +236,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://splitkb.com/products/kyria-kit-rev1-0",
+          "title": "splitkb/kyria",
           "description": "https://splitkb.com/products/kyria-custom-build https://github.com/splitkb/kyria",
           "children": [],
           "repo_info": {
@@ -257,17 +257,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://candykeys.com/product/iris-pcb-kit-v-3",
+          "title": "qmk/qmk_firmware",
           "description": "https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris https://github.com/keebio/iris-case",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 27737393,
             "language": "C",
-            "last_commit": "2026-08-21T20:39:16Z",
+            "last_commit": "2026-08-24T23:41:32Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20657
+            "stars": 20658
           }
         }
       ],
@@ -278,17 +278,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://keeb.io/products/levinson-lets-split-w-led-backlight",
+          "title": "qmk/qmk_firmware",
           "description": "https://keeb.io/products/levinson-keyboard-case-plates https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 27737393,
             "language": "C",
-            "last_commit": "2026-08-21T20:39:16Z",
+            "last_commit": "2026-08-24T23:41:32Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20657
+            "stars": 20658
           }
         }
       ],
@@ -299,17 +299,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://keeb.io/products/viterbi-keyboard-pcbs-5x7-70-split-ortholinear",
+          "title": "qmk/qmk_firmware",
           "description": "https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 27737393,
             "language": "C",
-            "last_commit": "2026-08-21T20:39:16Z",
+            "last_commit": "2026-08-24T23:41:32Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20657
+            "stars": 20658
           }
         }
       ],
@@ -320,7 +320,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/reversebias/mitosis-hardware",
+          "title": "reversebias/mitosis-hardware",
           "description": "https://github.com/reversebias/mitosis",
           "children": [],
           "repo_info": {
@@ -341,7 +341,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/adereth/dactyl-keyboard",
+          "title": "adereth/dactyl-keyboard",
           "description": null,
           "children": [],
           "repo_info": {
@@ -362,7 +362,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/tshort/dactyl-keyboard",
+          "title": "tshort/dactyl-keyboard",
           "description": null,
           "children": [],
           "repo_info": {
@@ -383,7 +383,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/profet23/atreus62/",
+          "title": "profet23/atreus62",
           "description": null,
           "children": [],
           "repo_info": {
@@ -404,7 +404,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/dekonnection/atreis",
+          "title": "dekonnection/atreis",
           "description": "https://www.reddit.com/r/MechanicalKeyboards/comments/8gt4cj/photos_the_atreis_an_unsplitted_iris/",
           "children": [],
           "repo_info": {
@@ -425,7 +425,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/FSund/pteron-keyboard",
+          "title": "FSund/pteron-keyboard",
           "description": "https://www.reddit.com/r/MechanicalKeyboards/comments/9blobs/the_pteron/",
           "children": [],
           "repo_info": {
@@ -446,7 +446,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "http://catboard.klava.org/",
+          "title": "ibnteo/catboard",
           "description": "https://github.com/ibnteo/catboard https://habr.com/post/185500/",
           "children": [],
           "repo_info": {
@@ -467,7 +467,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/omkbd/ErgoDash",
+          "title": "omkbd/ErgoDash",
           "description": null,
           "children": [],
           "repo_info": {
@@ -488,7 +488,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/kata0510/Lily58",
+          "title": "kata0510/Lily58",
           "description": null,
           "children": [],
           "repo_info": {
@@ -509,7 +509,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/tamanishi/Pinky4",
+          "title": "tamanishi/Pinky4",
           "description": null,
           "children": [],
           "repo_info": {
@@ -524,7 +524,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/tamanishi/Pinky3",
+          "title": "tamanishi/Pinky3",
           "description": null,
           "children": [],
           "repo_info": {
@@ -545,7 +545,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/swanmatch/colosseum60",
+          "title": "swanmatch/colosseum60",
           "description": null,
           "children": [],
           "repo_info": {
@@ -560,7 +560,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/swanmatch/MxLEDBitPCB",
+          "title": "swanmatch/MxLEDBitPCB",
           "description": null,
           "children": [],
           "repo_info": {
@@ -581,7 +581,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/monostable/awesome-electronics",
+          "title": "kitspace/awesome-electronics",
           "description": null,
           "children": [],
           "repo_info": {
@@ -596,7 +596,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ruiqimao/keyboard-pcb-guide",
+          "title": "ruiqimao/keyboard-pcb-guide",
           "description": null,
           "children": [],
           "repo_info": {
@@ -611,7 +611,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md",
+          "title": "nicinabox/lets-split-guide",
           "description": null,
           "children": [],
           "repo_info": {
@@ -641,7 +641,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/adius/awesome-laser-cutting",
+          "title": "ad-si/awesome-laser-cutting",
           "description": null,
           "children": [],
           "repo_info": {
@@ -773,10 +773,10 @@
                     "archived": false,
                     "id": 27737393,
                     "language": "C",
-                    "last_commit": "2026-08-21T20:39:16Z",
+                    "last_commit": "2026-08-24T23:41:32Z",
                     "owner": "qmk",
                     "repo": "qmk_firmware",
-                    "stars": 20657
+                    "stars": 20658
                   }
                 },
                 {
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:25:36.468Z",
+    "last_updated": "2026-08-25T05:47:07.303Z",
     "original_repository": "diimdeep/awesome-split-keyboards",
     "original_repository_id": 144284339,
     "original_repository_sha": "bd2c30408f26b6a0b6fa13e58b6c5ff5436beccc",
