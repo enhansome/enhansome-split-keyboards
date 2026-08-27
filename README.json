@@ -75,7 +75,7 @@
             "archived": false,
             "id": 27737393,
             "language": "C",
-            "last_commit": "2026-08-25T16:15:45Z",
+            "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
             "stars": 20659
@@ -120,7 +120,7 @@
             "last_commit": "2023-07-06T05:22:26Z",
             "owner": "nicinabox",
             "repo": "lets-split-guide",
-            "stars": 641
+            "stars": 642
           }
         }
       ],
@@ -183,7 +183,7 @@
             "last_commit": "2025-05-10T16:33:06Z",
             "owner": "foostan",
             "repo": "crkbd",
-            "stars": 7622
+            "stars": 7623
           }
         }
       ],
@@ -201,7 +201,7 @@
             "archived": false,
             "id": 27737393,
             "language": "C",
-            "last_commit": "2026-08-25T16:15:45Z",
+            "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
             "stars": 20659
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 27737393,
             "language": "C",
-            "last_commit": "2026-08-25T16:15:45Z",
+            "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
             "stars": 20659
@@ -285,7 +285,7 @@
             "archived": false,
             "id": 27737393,
             "language": "C",
-            "last_commit": "2026-08-25T16:15:45Z",
+            "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
             "stars": 20659
@@ -306,7 +306,7 @@
             "archived": false,
             "id": 27737393,
             "language": "C",
-            "last_commit": "2026-08-25T16:15:45Z",
+            "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
             "stars": 20659
@@ -351,7 +351,7 @@
             "last_commit": "2021-01-17T09:20:46Z",
             "owner": "adereth",
             "repo": "dactyl-keyboard",
-            "stars": 3159
+            "stars": 3160
           }
         }
       ],
@@ -498,7 +498,7 @@
             "last_commit": "2025-12-26T13:21:12Z",
             "owner": "kata0510",
             "repo": "Lily58",
-            "stars": 2283
+            "stars": 2284
           }
         }
       ],
@@ -591,7 +591,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8064
+            "stars": 8068
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4939
+            "stars": 4940
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2023-07-06T05:22:26Z",
             "owner": "nicinabox",
             "repo": "lets-split-guide",
-            "stars": 641
+            "stars": 642
           }
         },
         {
@@ -697,7 +697,7 @@
                 "last_commit": "2026-01-05T18:43:02Z",
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8064
+                "stars": 8068
               }
             },
             {
@@ -712,7 +712,7 @@
                 "last_commit": "2024-07-02T01:32:39Z",
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4939
+                "stars": 4940
               }
             },
             {
@@ -744,7 +744,7 @@
                     "last_commit": "2023-07-06T05:22:26Z",
                     "owner": "nicinabox",
                     "repo": "lets-split-guide",
-                    "stars": 641
+                    "stars": 642
                   }
                 }
               ],
@@ -773,7 +773,7 @@
                     "archived": false,
                     "id": 27737393,
                     "language": "C",
-                    "last_commit": "2026-08-25T16:15:45Z",
+                    "last_commit": "2026-08-27T01:13:48Z",
                     "owner": "qmk",
                     "repo": "qmk_firmware",
                     "stars": 20659
@@ -791,7 +791,7 @@
                     "last_commit": "2026-08-20T10:47:05Z",
                     "owner": "qmk",
                     "repo": "qmk_toolbox",
-                    "stars": 3070
+                    "stars": 3071
                   }
                 }
               ]
@@ -806,7 +806,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:26:38.102Z",
+    "last_updated": "2026-08-27T02:57:47.405Z",
     "original_repository": "diimdeep/awesome-split-keyboards",
     "original_repository_id": 144284339,
     "original_repository_sha": "bd2c30408f26b6a0b6fa13e58b6c5ff5436beccc",
