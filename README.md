@@ -178,7 +178,7 @@
 
 ## Corne
 
-<https://github.com/foostan/crkbd/> ⭐ 7,623 | 🐛 22 | 🌐 Makefile | 📅 2025-05-10
+<https://github.com/foostan/crkbd/> ⭐ 7,624 | 🐛 22 | 🌐 Makefile | 📅 2025-05-10
 
 <img src="img/HeliDox.jpg" width="400px"/> <img src="img/HeliDox_PCB.jpg" width="400px"/>
 
@@ -457,8 +457,8 @@
 
 ## Build your own keyboard (Do it yourself - DIY)
 
-* <https://github.com/monostable/awesome-electronics> ⭐ 8,068 | 🐛 31 | 📅 2026-01-05
-* <https://github.com/ruiqimao/keyboard-pcb-guide> ⭐ 4,940 | 🐛 22 | 📅 2024-07-02
+* <https://github.com/monostable/awesome-electronics> ⭐ 8,068 | 🐛 32 | 📅 2026-01-05
+* <https://github.com/ruiqimao/keyboard-pcb-guide> ⭐ 4,941 | 🐛 22 | 📅 2024-07-02
 * <https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md> ⭐ 642 | 🐛 10 | 🌐 Makefile | 📅 2023-07-06
 * [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/), [github](https://github.com/jhelvy/splitKbCompare) ⭐ 347 | 🐛 26 | 🌐 R | 📅 2026-02-28
 * <https://github.com/adius/awesome-laser-cutting> ⭐ 107 | 🐛 2 | 📅 2026-04-30
@@ -498,8 +498,8 @@
 
 ### Electronics
 
-* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,068 | 🐛 31 | 📅 2026-01-05
-* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,940 | 🐛 22 | 📅 2024-07-02
+* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,068 | 🐛 32 | 📅 2026-01-05
+* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,941 | 🐛 22 | 📅 2024-07-02
 * [KiCad footprint library](https://github.com/daprice/keyswitches.pretty) ⭐ 1,040 | 🐛 5 | 📅 2021-10-20
 * [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 * [Hard-Wiring How-To](https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To)
