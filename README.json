@@ -16,7 +16,8 @@
             "owner": "jpconstantineau",
             "repo": "ErgoTravel",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Ergotravel"
@@ -37,7 +38,8 @@
             "owner": "Pekaso",
             "repo": "fortitude60",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Fortitude60"
@@ -58,7 +60,8 @@
             "owner": "peej",
             "repo": "for-science-keyboard",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "For Science"
@@ -78,8 +81,9 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20659
-          }
+            "stars": 20661
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Georgi"
@@ -100,7 +104,8 @@
             "owner": "mattdibi",
             "repo": "redox-keyboard",
             "stars": 1984
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Redox"
@@ -121,7 +126,8 @@
             "owner": "nicinabox",
             "repo": "lets-split-guide",
             "stars": 642
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Let's Split"
@@ -142,7 +148,8 @@
             "owner": "That-Canadian",
             "repo": "MiniDox_PCB",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Minidox"
@@ -163,7 +170,8 @@
             "owner": "MakotoKurauchi",
             "repo": "helix",
             "stars": 998
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Helix"
@@ -183,8 +191,9 @@
             "last_commit": "2025-05-10T16:33:06Z",
             "owner": "foostan",
             "repo": "crkbd",
-            "stars": 7624
-          }
+            "stars": 7626
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Corne"
@@ -204,8 +213,9 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20659
-          }
+            "stars": 20661
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Zen"
@@ -226,7 +236,8 @@
             "owner": "jawn-smith",
             "repo": "Chimera",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Chimera Ergo"
@@ -247,7 +258,8 @@
             "owner": "splitkb",
             "repo": "kyria",
             "stars": 359
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Kyria"
@@ -267,8 +279,9 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20659
-          }
+            "stars": 20661
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Iris"
@@ -288,8 +301,9 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20659
-          }
+            "stars": 20661
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Levinson"
@@ -309,8 +323,9 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20659
-          }
+            "stars": 20661
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Viterbi"
@@ -331,7 +346,8 @@
             "owner": "reversebias",
             "repo": "mitosis-hardware",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Mitosis"
@@ -352,7 +368,8 @@
             "owner": "adereth",
             "repo": "dactyl-keyboard",
             "stars": 3160
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Dactyl"
@@ -372,8 +389,9 @@
             "last_commit": "2023-03-03T00:37:50Z",
             "owner": "tshort",
             "repo": "dactyl-keyboard",
-            "stars": 1370
-          }
+            "stars": 1371
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Dactyl-ManuForm"
@@ -394,7 +412,8 @@
             "owner": "profet23",
             "repo": "atreus62",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Atreus62"
@@ -415,7 +434,8 @@
             "owner": "dekonnection",
             "repo": "atreis",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Atreis"
@@ -436,7 +456,8 @@
             "owner": "FSund",
             "repo": "pteron-keyboard",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Pteron"
@@ -457,7 +478,8 @@
             "owner": "ibnteo",
             "repo": "catboard",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "CatBoard ]["
@@ -478,7 +500,8 @@
             "owner": "omkbd",
             "repo": "ErgoDash",
             "stars": 725
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "ErgoDash"
@@ -498,8 +521,9 @@
             "last_commit": "2025-12-26T13:21:12Z",
             "owner": "kata0510",
             "repo": "Lily58",
-            "stars": 2284
-          }
+            "stars": 2285
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Lily58"
@@ -520,7 +544,8 @@
             "owner": "tamanishi",
             "repo": "Pinky4",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         },
         {
           "node_type": "item",
@@ -535,7 +560,8 @@
             "owner": "tamanishi",
             "repo": "Pinky3",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Pinky"
@@ -556,7 +582,8 @@
             "owner": "swanmatch",
             "repo": "colosseum60",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         },
         {
           "node_type": "item",
@@ -571,7 +598,8 @@
             "owner": "swanmatch",
             "repo": "MxLEDBitPCB",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         }
       ],
       "title": "Colosseum"
@@ -591,8 +619,9 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8068
-          }
+            "stars": 8070
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         },
         {
           "node_type": "item",
@@ -607,7 +636,8 @@
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
             "stars": 4941
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         },
         {
           "node_type": "item",
@@ -622,7 +652,8 @@
             "owner": "nicinabox",
             "repo": "lets-split-guide",
             "stars": 642
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         },
         {
           "node_type": "item",
@@ -637,7 +668,8 @@
             "owner": "jhelvy",
             "repo": "splitKbCompare",
             "stars": 347
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         },
         {
           "node_type": "item",
@@ -652,7 +684,8 @@
             "owner": "ad-si",
             "repo": "awesome-laser-cutting",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T05:58:29.552Z"
         },
         {
           "children": [
@@ -671,7 +704,8 @@
                     "owner": "ad-si",
                     "repo": "awesome-laser-cutting",
                     "stars": 107
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:58:29.552Z"
                 }
               ],
               "description": null,
@@ -697,8 +731,9 @@
                 "last_commit": "2026-01-05T18:43:02Z",
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8068
-              }
+                "stars": 8070
+              },
+              "first_seen": "2026-08-28T05:58:29.552Z"
             },
             {
               "node_type": "item",
@@ -713,7 +748,8 @@
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
                 "stars": 4941
-              }
+              },
+              "first_seen": "2026-08-28T05:58:29.552Z"
             },
             {
               "node_type": "item",
@@ -728,7 +764,8 @@
                 "owner": "daprice",
                 "repo": "keyswitches.pretty",
                 "stars": 1040
-              }
+              },
+              "first_seen": "2026-08-28T05:58:29.552Z"
             },
             {
               "children": [
@@ -745,7 +782,8 @@
                     "owner": "nicinabox",
                     "repo": "lets-split-guide",
                     "stars": 642
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:58:29.552Z"
                 }
               ],
               "description": null,
@@ -776,8 +814,9 @@
                     "last_commit": "2026-08-27T01:13:48Z",
                     "owner": "qmk",
                     "repo": "qmk_firmware",
-                    "stars": 20659
-                  }
+                    "stars": 20661
+                  },
+                  "first_seen": "2026-08-28T05:58:29.552Z"
                 },
                 {
                   "node_type": "item",
@@ -792,7 +831,8 @@
                     "owner": "qmk",
                     "repo": "qmk_toolbox",
                     "stars": 3071
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:58:29.552Z"
                 }
               ]
             }
@@ -806,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:18.879Z",
+    "last_updated": "2026-08-28T05:58:29.552Z",
     "original_repository_info": {
       "archived": false,
       "id": 144284339,
