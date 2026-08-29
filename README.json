@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Portable Ergonomic Split Keyboard inspired from the ErgoDox, Let's Split and Minidox",
+            "homepage": null,
             "id": 124602014,
             "language": "OpenSCAD",
+            "license": "MIT",
             "last_commit": "2021-10-28T13:22:41Z",
+            "open_issues": 4,
             "owner": "jpconstantineau",
             "repo": "ErgoTravel",
-            "stars": 284
+            "stars": 284,
+            "topics": [
+              "keyboard",
+              "kicad",
+              "mechanical",
+              "split"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -32,12 +42,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 136812735,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-11-24T00:41:44Z",
+            "open_issues": 10,
             "owner": "Pekaso",
             "repo": "fortitude60",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -54,12 +69,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A split ergo 4x5 keyboard with 3 thumb keys where each half is smaller than the 100x100mm cheap PCB production size.",
+            "homepage": null,
             "id": 114223541,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-02-27T16:06:48Z",
+            "open_issues": 3,
             "owner": "peej",
             "repo": "for-science-keyboard",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "electronics",
+              "mechanical-keyboard",
+              "pcb"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -76,12 +100,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+            "homepage": "https://qmk.fm",
             "id": 27737393,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T01:13:48Z",
+            "open_issues": 548,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20665
+            "stars": 20665,
+            "topics": [
+              "atmel-avr",
+              "c",
+              "c-plus-plus",
+              "clueboard",
+              "ergodox-ez",
+              "keyboard-firmware",
+              "keyboard-support",
+              "olkb",
+              "qmk"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -98,12 +137,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ergonomic split mechanical keyboard",
+            "homepage": null,
             "id": 126579919,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-26T18:15:22Z",
+            "open_issues": 33,
             "owner": "mattdibi",
             "repo": "redox-keyboard",
-            "stars": 1985
+            "stars": 1985,
+            "topics": [
+              "assembly",
+              "ergonomic-keyboard",
+              "guide",
+              "keyboard",
+              "mechanical-keyboard",
+              "pcb",
+              "redox",
+              "redox-handwire",
+              "redox-keyboard",
+              "split-keyboard"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -120,12 +175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This guide covers building a Let's Split v2",
+            "homepage": null,
             "id": 81631285,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2023-07-06T05:22:26Z",
+            "open_issues": 10,
             "owner": "nicinabox",
             "repo": "lets-split-guide",
-            "stars": 642
+            "stars": 642,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -142,12 +202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MiniDox Keyboard, PCB files",
+            "homepage": null,
             "id": 100806970,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2017-08-20T00:49:01Z",
+            "open_issues": 0,
             "owner": "That-Canadian",
             "repo": "MiniDox_PCB",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -164,12 +229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A compact split ortholinear keyboard.",
+            "homepage": null,
             "id": 118923971,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-20T22:01:11Z",
+            "open_issues": 10,
             "owner": "MakotoKurauchi",
             "repo": "helix",
-            "stars": 998
+            "stars": 998,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -186,12 +256,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
+            "homepage": null,
             "id": 126700689,
             "language": "Makefile",
+            "license": "CC-BY-4.0",
             "last_commit": "2025-05-10T16:33:06Z",
+            "open_issues": 23,
             "owner": "foostan",
             "repo": "crkbd",
-            "stars": 7627
+            "stars": 7627,
+            "topics": [
+              "ergonomic-keyboard",
+              "keyboard",
+              "mechanical-keyboard",
+              "split-keyboard"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -208,12 +288,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+            "homepage": "https://qmk.fm",
             "id": 27737393,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T01:13:48Z",
+            "open_issues": 548,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20665
+            "stars": 20665,
+            "topics": [
+              "atmel-avr",
+              "c",
+              "c-plus-plus",
+              "clueboard",
+              "ergodox-ez",
+              "keyboard-firmware",
+              "keyboard-support",
+              "olkb",
+              "qmk"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -230,12 +325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chimera Keyboard software and hardware",
+            "homepage": null,
             "id": 108933076,
             "language": null,
+            "license": null,
             "last_commit": "2019-02-09T20:16:06Z",
+            "open_issues": 3,
             "owner": "jawn-smith",
             "repo": "Chimera",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -252,12 +352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Files related to the Kyria keyboard.",
+            "homepage": null,
             "id": 208776710,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-02-05T15:21:11Z",
+            "open_issues": 11,
             "owner": "splitkb",
             "repo": "kyria",
-            "stars": 359
+            "stars": 359,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -274,12 +379,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+            "homepage": "https://qmk.fm",
             "id": 27737393,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T01:13:48Z",
+            "open_issues": 548,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20665
+            "stars": 20665,
+            "topics": [
+              "atmel-avr",
+              "c",
+              "c-plus-plus",
+              "clueboard",
+              "ergodox-ez",
+              "keyboard-firmware",
+              "keyboard-support",
+              "olkb",
+              "qmk"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -296,12 +416,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+            "homepage": "https://qmk.fm",
             "id": 27737393,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T01:13:48Z",
+            "open_issues": 548,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20665
+            "stars": 20665,
+            "topics": [
+              "atmel-avr",
+              "c",
+              "c-plus-plus",
+              "clueboard",
+              "ergodox-ez",
+              "keyboard-firmware",
+              "keyboard-support",
+              "olkb",
+              "qmk"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -318,12 +453,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+            "homepage": "https://qmk.fm",
             "id": 27737393,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T01:13:48Z",
+            "open_issues": 548,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20665
+            "stars": 20665,
+            "topics": [
+              "atmel-avr",
+              "c",
+              "c-plus-plus",
+              "clueboard",
+              "ergodox-ez",
+              "keyboard-firmware",
+              "keyboard-support",
+              "olkb",
+              "qmk"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -340,12 +490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mechanical design files for the Mitosis keyboard",
+            "homepage": null,
             "id": 88679800,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2017-12-01T23:06:26Z",
+            "open_issues": 8,
             "owner": "reversebias",
             "repo": "mitosis-hardware",
-            "stars": 331
+            "stars": 331,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -362,12 +517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parameterized ergonomic keyboard",
+            "homepage": null,
             "id": 31793490,
             "language": "OpenSCAD",
+            "license": "AGPL-3.0",
             "last_commit": "2021-01-17T09:20:46Z",
+            "open_issues": 46,
             "owner": "adereth",
             "repo": "dactyl-keyboard",
-            "stars": 3161
+            "stars": 3161,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -384,12 +544,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dactyl-ManuForm, a parameterized ergonomic keyboard",
+            "homepage": null,
             "id": 84501690,
             "language": "Clojure",
+            "license": "AGPL-3.0",
             "last_commit": "2023-03-03T00:37:50Z",
+            "open_issues": 20,
             "owner": "tshort",
             "repo": "dactyl-keyboard",
-            "stars": 1371
+            "stars": 1371,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -406,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design files for the atreus62 keyboard",
+            "homepage": null,
             "id": 73867109,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2021-11-17T16:03:30Z",
+            "open_issues": 2,
             "owner": "profet23",
             "repo": "atreus62",
-            "stars": 240
+            "stars": 240,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -428,12 +598,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 118296149,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-01-08T14:57:10Z",
+            "open_issues": 2,
             "owner": "dekonnection",
             "repo": "atreis",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "keyboard",
+              "mechanical-keyboard",
+              "qmk-firmware"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -450,12 +629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ergonomic keyboard",
+            "homepage": null,
             "id": 142273249,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2021-07-30T10:57:14Z",
+            "open_issues": 0,
             "owner": "FSund",
             "repo": "pteron-keyboard",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -472,12 +656,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Homemade ergoromic keyboard CatBoard ][",
+            "homepage": "http://catboard.klava.org/",
             "id": 7502382,
             "language": "CSS",
+            "license": null,
             "last_commit": "2019-01-31T06:34:40Z",
+            "open_issues": 1,
             "owner": "ibnteo",
             "repo": "catboard",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -494,12 +683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "keyboard",
+            "homepage": null,
             "id": 139180834,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-05-15T01:51:39Z",
+            "open_issues": 14,
             "owner": "omkbd",
             "repo": "ErgoDash",
-            "stars": 725
+            "stars": 725,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -516,12 +710,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "6×4+4keys column-staggered split keyboard.",
+            "homepage": "https://kata0510.github.io/Lily58-Document/",
             "id": 143150026,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-12-26T13:21:12Z",
+            "open_issues": 23,
             "owner": "kata0510",
             "repo": "Lily58",
-            "stars": 2285
+            "stars": 2285,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -538,12 +737,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A split 4 x 7 vertically staggered keys and 4 thumb keys keyboard.",
+            "homepage": null,
             "id": 161292238,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-06-26T10:04:18Z",
+            "open_issues": 0,
             "owner": "tamanishi",
             "repo": "Pinky4",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "keyboard",
+              "kicad",
+              "pcb"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         },
@@ -554,12 +762,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A split 3 x 7 vertically staggered keys and 4 thumb keys keyboard.",
+            "homepage": null,
             "id": 162888645,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-06-26T10:05:47Z",
+            "open_issues": 1,
             "owner": "tamanishi",
             "repo": "Pinky3",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "mechanical-keyboard"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -576,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FullcolorBacklight3Dkeyboard",
+            "homepage": null,
             "id": 156973401,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-31T09:14:15Z",
+            "open_issues": 0,
             "owner": "swanmatch",
             "repo": "colosseum60",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         },
@@ -592,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 142679475,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-01T13:52:09Z",
+            "open_issues": 1,
             "owner": "swanmatch",
             "repo": "MxLEDBitPCB",
-            "stars": 253
+            "stars": 253,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -614,12 +839,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
+            "homepage": null,
             "id": 64177015,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T18:43:02Z",
+            "open_issues": 32,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8071
+            "stars": 8071,
+            "topics": [
+              "altium",
+              "awesome",
+              "eagle",
+              "electronics",
+              "gerber",
+              "hardware",
+              "kicad",
+              "pcb"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         },
@@ -630,12 +869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Guide on how to design keyboard PCBs with KiCad",
+            "homepage": null,
             "id": 78909052,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-02T01:32:39Z",
+            "open_issues": 22,
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4943
+            "stars": 4943,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         },
@@ -646,12 +890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This guide covers building a Let's Split v2",
+            "homepage": null,
             "id": 81631285,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2023-07-06T05:22:26Z",
+            "open_issues": 10,
             "owner": "nicinabox",
             "repo": "lets-split-guide",
-            "stars": 642
+            "stars": 642,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         },
@@ -662,12 +911,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive tool for comparing layouts of different split mechanical keyboards",
+            "homepage": "https://jhelvy.github.io/splitKbCompare/",
             "id": 241105575,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2026-02-28T13:51:49Z",
+            "open_issues": 26,
             "owner": "jhelvy",
             "repo": "splitKbCompare",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "comparing-layouts",
+              "keyboard-layouts",
+              "keyboards",
+              "mechanical-keyboard",
+              "rstats",
+              "shiny",
+              "split-keyboards"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         },
@@ -678,12 +940,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome laser cutting resources.",
+            "homepage": null,
             "id": 50352363,
             "language": null,
+            "license": "ISC",
             "last_commit": "2026-04-30T13:56:53Z",
+            "open_issues": 2,
             "owner": "ad-si",
             "repo": "awesome-laser-cutting",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "awesome-list",
+              "engraving",
+              "laser",
+              "laser-cut",
+              "laser-cutter",
+              "laser-cutting",
+              "laser-engraver",
+              "lasercut"
+            ]
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         },
@@ -698,12 +974,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A curated list of awesome laser cutting resources.",
+                    "homepage": null,
                     "id": 50352363,
                     "language": null,
+                    "license": "ISC",
                     "last_commit": "2026-04-30T13:56:53Z",
+                    "open_issues": 2,
                     "owner": "ad-si",
                     "repo": "awesome-laser-cutting",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": [
+                      "awesome-list",
+                      "engraving",
+                      "laser",
+                      "laser-cut",
+                      "laser-cutter",
+                      "laser-cutting",
+                      "laser-engraver",
+                      "lasercut"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:58:29.552Z"
                 }
@@ -726,12 +1016,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
+                "homepage": null,
                 "id": 64177015,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-01-05T18:43:02Z",
+                "open_issues": 32,
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8071
+                "stars": 8071,
+                "topics": [
+                  "altium",
+                  "awesome",
+                  "eagle",
+                  "electronics",
+                  "gerber",
+                  "hardware",
+                  "kicad",
+                  "pcb"
+                ]
               },
               "first_seen": "2026-08-28T05:58:29.552Z"
             },
@@ -742,12 +1046,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guide on how to design keyboard PCBs with KiCad",
+                "homepage": null,
                 "id": 78909052,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-02T01:32:39Z",
+                "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4943
+                "stars": 4943,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:58:29.552Z"
             },
@@ -758,12 +1067,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets",
+                "homepage": null,
                 "id": 126096628,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-20T22:38:20Z",
+                "open_issues": 5,
                 "owner": "daprice",
                 "repo": "keyswitches.pretty",
-                "stars": 1040
+                "stars": 1040,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:58:29.552Z"
             },
@@ -776,12 +1090,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This guide covers building a Let's Split v2",
+                    "homepage": null,
                     "id": 81631285,
                     "language": "Makefile",
+                    "license": null,
                     "last_commit": "2023-07-06T05:22:26Z",
+                    "open_issues": 10,
                     "owner": "nicinabox",
                     "repo": "lets-split-guide",
-                    "stars": 642
+                    "stars": 642,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T05:58:29.552Z"
                 }
@@ -809,12 +1128,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+                    "homepage": "https://qmk.fm",
                     "id": 27737393,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-27T01:13:48Z",
+                    "open_issues": 548,
                     "owner": "qmk",
                     "repo": "qmk_firmware",
-                    "stars": 20665
+                    "stars": 20665,
+                    "topics": [
+                      "atmel-avr",
+                      "c",
+                      "c-plus-plus",
+                      "clueboard",
+                      "ergodox-ez",
+                      "keyboard-firmware",
+                      "keyboard-support",
+                      "olkb",
+                      "qmk"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:58:29.552Z"
                 },
@@ -825,12 +1159,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Toolbox companion for QMK Firmware",
+                    "homepage": "https://qmk.fm/toolbox",
                     "id": 102075885,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T10:47:05Z",
+                    "open_issues": 24,
                     "owner": "qmk",
                     "repo": "qmk_toolbox",
-                    "stars": 3072
+                    "stars": 3072,
+                    "topics": [
+                      "atmel",
+                      "avr",
+                      "caterina",
+                      "dfu",
+                      "macos",
+                      "qmk",
+                      "qmk-firmware",
+                      "stm32"
+                    ]
                   },
                   "first_seen": "2026-08-28T05:58:29.552Z"
                 }
@@ -846,15 +1194,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:31:50.846Z",
+    "last_updated": "2026-08-29T04:19:38.219Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of ergonomic split keyboards ⌨",
+      "homepage": null,
       "id": 144284339,
       "language": null,
+      "license": null,
       "last_commit": "2024-07-06T10:55:25Z",
+      "open_issues": 36,
       "owner": "diimdeep",
       "repo": "awesome-split-keyboards",
-      "stars": 5861
+      "stars": 5861,
+      "topics": [
+        "ergonomic-keyboard",
+        "hardware",
+        "keyboards",
+        "mechanical-keyboard",
+        "split-keyboard"
+      ]
     },
     "original_repository_sha": "bd2c30408f26b6a0b6fa13e58b6c5ff5436beccc",
     "enhanced_repository": "enhansome/enhansome-split-keyboards",
