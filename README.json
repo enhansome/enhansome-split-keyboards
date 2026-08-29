@@ -81,7 +81,7 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20661
+            "stars": 20665
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -103,7 +103,7 @@
             "last_commit": "2026-05-26T18:15:22Z",
             "owner": "mattdibi",
             "repo": "redox-keyboard",
-            "stars": 1984
+            "stars": 1985
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -191,7 +191,7 @@
             "last_commit": "2025-05-10T16:33:06Z",
             "owner": "foostan",
             "repo": "crkbd",
-            "stars": 7626
+            "stars": 7627
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20661
+            "stars": 20665
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -279,7 +279,7 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20661
+            "stars": 20665
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -301,7 +301,7 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20661
+            "stars": 20665
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -323,7 +323,7 @@
             "last_commit": "2026-08-27T01:13:48Z",
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20661
+            "stars": 20665
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -367,7 +367,7 @@
             "last_commit": "2021-01-17T09:20:46Z",
             "owner": "adereth",
             "repo": "dactyl-keyboard",
-            "stars": 3160
+            "stars": 3161
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         }
@@ -619,7 +619,7 @@
             "last_commit": "2026-01-05T18:43:02Z",
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8070
+            "stars": 8071
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         },
@@ -635,7 +635,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4941
+            "stars": 4943
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         },
@@ -667,7 +667,7 @@
             "last_commit": "2026-02-28T13:51:49Z",
             "owner": "jhelvy",
             "repo": "splitKbCompare",
-            "stars": 347
+            "stars": 348
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
         },
@@ -731,7 +731,7 @@
                 "last_commit": "2026-01-05T18:43:02Z",
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8070
+                "stars": 8071
               },
               "first_seen": "2026-08-28T05:58:29.552Z"
             },
@@ -747,7 +747,7 @@
                 "last_commit": "2024-07-02T01:32:39Z",
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4941
+                "stars": 4943
               },
               "first_seen": "2026-08-28T05:58:29.552Z"
             },
@@ -814,7 +814,7 @@
                     "last_commit": "2026-08-27T01:13:48Z",
                     "owner": "qmk",
                     "repo": "qmk_firmware",
-                    "stars": 20661
+                    "stars": 20665
                   },
                   "first_seen": "2026-08-28T05:58:29.552Z"
                 },
@@ -830,7 +830,7 @@
                     "last_commit": "2026-08-20T10:47:05Z",
                     "owner": "qmk",
                     "repo": "qmk_toolbox",
-                    "stars": 3071
+                    "stars": 3072
                   },
                   "first_seen": "2026-08-28T05:58:29.552Z"
                 }
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:58:29.552Z",
+    "last_updated": "2026-08-29T03:31:50.846Z",
     "original_repository_info": {
       "archived": false,
       "id": 144284339,
