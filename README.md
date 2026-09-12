@@ -113,7 +113,7 @@
 
 ## Fortitude60
 
-<https://github.com/Pekaso/fortitude60> ⭐ 194 | 🐛 10 | 📅 2021-11-24
+<https://github.com/Pekaso/fortitude60> ⭐ 195 | 🐛 10 | 📅 2021-11-24
 <https://yushakobo.jp/shop/fortitude60>
 
 <img src="img/Fortitude60-otakublack.jpeg" width="400px"/> <img src="img/Fortitude60-ikiriwhite.jpg" width="400px"/>
@@ -134,21 +134,21 @@
 
 [gboards.ca](https://www.gboards.ca)
 
-<https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi> ⭐ 20,691 | 🐛 537 | 🌐 C | 📅 2026-09-10
+<https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi> ⭐ 20,695 | 🐛 540 | 🌐 C | 📅 2026-09-10
 
 <img src="img/Georgi.jpg" width="400px"/> <img src="img/Georgi2.jpg" width="400px"/>
 
 ## Gergo
 
 [gboards.ca](https://www.gboards.ca)\
-[firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gergo) ⭐ 20,691 | 🐛 537 | 🌐 C | 📅 2026-09-10\
+[firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gergo) ⭐ 20,695 | 🐛 540 | 🌐 C | 📅 2026-09-10\
 [reddit](https://www.reddit.com/r/MechanicalKeyboards/search?q=gergo\&restrict_sr=on)
 
 <img src="img/Gergo.jpg" width="400px"/>  <img src="img/Gergo2.jpg" width="400px"/>
 
 ## Redox
 
-<https://github.com/mattdibi/redox-keyboard> ⭐ 1,985 | 🐛 33 | 📅 2026-05-26
+<https://github.com/mattdibi/redox-keyboard> ⭐ 1,986 | 🐛 33 | 📅 2026-05-26
 <https://github.com/Lenbok/scad-redox-case> ⭐ 240 | 🐛 1 | 🌐 OpenSCAD | 📅 2025-11-03
 
 <img src="img/Redox.jpg" width="400px"/> <img src="img/Redox_PCB.jpg" width="400px"/>
@@ -171,14 +171,14 @@
 
 ## Helix
 
-<https://github.com/MakotoKurauchi/helix> ⭐ 1,000 | 🐛 10 | 🌐 Python | 📅 2022-11-20
+<https://github.com/MakotoKurauchi/helix> ⭐ 1,001 | 🐛 10 | 🌐 Python | 📅 2022-11-20
 <https://yushakobo.jp/shop/helix-keyboard-kit/>
 
 <img src="img/Helix.jpg" width="400px"/>
 
 ## Corne
 
-<https://github.com/foostan/crkbd/> ⭐ 7,645 | 🐛 23 | 🌐 Makefile | 📅 2025-05-10
+<https://github.com/foostan/crkbd/> ⭐ 7,647 | 🐛 23 | 🌐 Makefile | 📅 2025-05-10
 
 <img src="img/HeliDox.jpg" width="400px"/> <img src="img/HeliDox_PCB.jpg" width="400px"/>
 
@@ -189,7 +189,7 @@
 
 <https://legonut.gitbooks.io/zen-keyboard/content/>
 <https://legonut.gitbooks.io/zen-keyboard/content/flashing.html>
-<https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md> ⭐ 20,691 | 🐛 537 | 🌐 C | 📅 2026-09-10
+<https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md> ⭐ 20,695 | 🐛 540 | 🌐 C | 📅 2026-09-10
 
 <https://www.youtube.com/watch?v=1tDWJe_P5PQ>
 
@@ -220,8 +220,8 @@
 
 <https://candykeys.com/product/iris-pcb-kit-v-3>
 <https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard>
-<https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris> ⭐ 20,691 | 🐛 537 | 🌐 C | 📅 2026-09-10
-<https://github.com/keebio/iris-case> ⭐ 388 | 🐛 11 | 🌐 OpenSCAD | 📅 2025-07-18
+<https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris> ⭐ 20,695 | 🐛 540 | 🌐 C | 📅 2026-09-10
+<https://github.com/keebio/iris-case> ⭐ 389 | 🐛 11 | 🌐 OpenSCAD | 📅 2025-07-18
 
 <img src="img/Iris.jpg" width="400px"/>
 
@@ -229,14 +229,14 @@
 
 <https://keeb.io/products/levinson-lets-split-w-led-backlight>
 <https://keeb.io/products/levinson-keyboard-case-plates>
-<https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md> ⭐ 20,691 | 🐛 537 | 🌐 C | 📅 2026-09-10
+<https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md> ⭐ 20,695 | 🐛 540 | 🌐 C | 📅 2026-09-10
 
 <img src="img/Levinson.jpg" width="400px"/>
 
 ## Viterbi
 
 <https://keeb.io/products/viterbi-keyboard-pcbs-5x7-70-split-ortholinear>
-<https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md> ⭐ 20,691 | 🐛 537 | 🌐 C | 📅 2026-09-10
+<https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md> ⭐ 20,695 | 🐛 540 | 🌐 C | 📅 2026-09-10
 
 <img src="img/Viterbi.jpg" width="400px"/>
 
@@ -261,13 +261,13 @@
 
 ## Dactyl
 
-<https://github.com/adereth/dactyl-keyboard> ⭐ 3,168 | 🐛 46 | 🌐 OpenSCAD | 📅 2021-01-17
+<https://github.com/adereth/dactyl-keyboard> ⭐ 3,169 | 🐛 46 | 🌐 OpenSCAD | 📅 2021-01-17
 
 <img src="img/Dactyl.jpg" width="400px"/>
 
 ## Dactyl-ManuForm
 
-<https://github.com/tshort/dactyl-keyboard> ⭐ 1,373 | 🐛 20 | 🌐 Clojure | 📅 2023-03-03
+<https://github.com/tshort/dactyl-keyboard> ⭐ 1,374 | 🐛 20 | 🌐 Clojure | 📅 2023-03-03
 
 <img src="img/Dactyl-ManuForm.jpg" width="400px"/>
 
@@ -457,8 +457,8 @@
 
 ## Build your own keyboard (Do it yourself - DIY)
 
-* <https://github.com/monostable/awesome-electronics> ⭐ 8,109 | 🐛 33 | 📅 2026-01-05
-* <https://github.com/ruiqimao/keyboard-pcb-guide> ⭐ 4,954 | 🐛 22 | 📅 2024-07-02
+* <https://github.com/monostable/awesome-electronics> ⭐ 8,111 | 🐛 33 | 📅 2026-01-05
+* <https://github.com/ruiqimao/keyboard-pcb-guide> ⭐ 4,955 | 🐛 22 | 📅 2024-07-02
 * <https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md> ⭐ 643 | 🐛 10 | 🌐 Makefile | 📅 2023-07-06
 * [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/), [github](https://github.com/jhelvy/splitKbCompare) ⭐ 347 | 🐛 26 | 🌐 R | 📅 2026-02-28
 * <https://github.com/adius/awesome-laser-cutting> ⭐ 108 | 🐛 2 | 📅 2026-04-30
@@ -498,8 +498,8 @@
 
 ### Electronics
 
-* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,109 | 🐛 33 | 📅 2026-01-05
-* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,954 | 🐛 22 | 📅 2024-07-02
+* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,111 | 🐛 33 | 📅 2026-01-05
+* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,955 | 🐛 22 | 📅 2024-07-02
 * [KiCad footprint library](https://github.com/daprice/keyswitches.pretty) ⭐ 1,042 | 🐛 5 | 📅 2021-10-20
 * [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
 * [Hard-Wiring How-To](https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To)
@@ -515,8 +515,8 @@
 ### Firmware
 
 * [QMK](qmk.fm)
-  * [QMK Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,691 | 🐛 537 | 🌐 C | 📅 2026-09-10
-  * [QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,075 | 🐛 24 | 🌐 C# | 📅 2026-08-20
+  * [QMK Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,695 | 🐛 540 | 🌐 C | 📅 2026-09-10
+  * [QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,075 | 🐛 25 | 🌐 C# | 📅 2026-08-20
 * [VIA](https://caniusevia.com)
 
 ## Keyboard Information
@@ -643,4 +643,4 @@ Contributions welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
