@@ -106,10 +106,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-10T04:40:32Z",
-            "open_issues": 540,
+            "open_issues": 541,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20695,
+            "stars": 20697,
             "topics": [
               "atmel-avr",
               "c",
@@ -265,7 +265,7 @@
             "open_issues": 23,
             "owner": "foostan",
             "repo": "crkbd",
-            "stars": 7647,
+            "stars": 7646,
             "topics": [
               "ergonomic-keyboard",
               "keyboard",
@@ -294,10 +294,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-10T04:40:32Z",
-            "open_issues": 540,
+            "open_issues": 541,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20695,
+            "stars": 20697,
             "topics": [
               "atmel-avr",
               "c",
@@ -385,10 +385,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-10T04:40:32Z",
-            "open_issues": 540,
+            "open_issues": 541,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20695,
+            "stars": 20697,
             "topics": [
               "atmel-avr",
               "c",
@@ -422,10 +422,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-10T04:40:32Z",
-            "open_issues": 540,
+            "open_issues": 541,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20695,
+            "stars": 20697,
             "topics": [
               "atmel-avr",
               "c",
@@ -459,10 +459,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-10T04:40:32Z",
-            "open_issues": 540,
+            "open_issues": 541,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20695,
+            "stars": 20697,
             "topics": [
               "atmel-avr",
               "c",
@@ -845,10 +845,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-01-05T18:43:02Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8111,
+            "stars": 8113,
             "topics": [
               "altium",
               "awesome",
@@ -878,7 +878,7 @@
             "open_issues": 22,
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4955,
+            "stars": 4956,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -1022,10 +1022,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-01-05T18:43:02Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8111,
+                "stars": 8113,
                 "topics": [
                   "altium",
                   "awesome",
@@ -1055,7 +1055,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4955,
+                "stars": 4956,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:58:29.552Z"
@@ -1134,10 +1134,10 @@
                     "language": "C",
                     "license": "GPL-2.0",
                     "last_commit": "2026-09-10T04:40:32Z",
-                    "open_issues": 540,
+                    "open_issues": 541,
                     "owner": "qmk",
                     "repo": "qmk_firmware",
-                    "stars": 20695,
+                    "stars": 20697,
                     "topics": [
                       "atmel-avr",
                       "c",
@@ -1168,7 +1168,7 @@
                     "open_issues": 25,
                     "owner": "qmk",
                     "repo": "qmk_toolbox",
-                    "stars": 3075,
+                    "stars": 3077,
                     "topics": [
                       "atmel",
                       "avr",
@@ -1194,7 +1194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:46:59.948Z",
+    "last_updated": "2026-09-13T23:54:08.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of ergonomic split keyboards ⌨",
@@ -1206,7 +1206,7 @@
       "open_issues": 36,
       "owner": "diimdeep",
       "repo": "awesome-split-keyboards",
-      "stars": 5869,
+      "stars": 5871,
       "topics": [
         "ergonomic-keyboard",
         "hardware",
