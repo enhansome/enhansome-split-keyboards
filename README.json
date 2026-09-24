@@ -106,10 +106,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-20T20:33:44Z",
-            "open_issues": 546,
+            "open_issues": 548,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20725,
+            "stars": 20728,
             "topics": [
               "atmel-avr",
               "c",
@@ -294,10 +294,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-20T20:33:44Z",
-            "open_issues": 546,
+            "open_issues": 548,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20725,
+            "stars": 20728,
             "topics": [
               "atmel-avr",
               "c",
@@ -385,10 +385,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-20T20:33:44Z",
-            "open_issues": 546,
+            "open_issues": 548,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20725,
+            "stars": 20728,
             "topics": [
               "atmel-avr",
               "c",
@@ -422,10 +422,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-20T20:33:44Z",
-            "open_issues": 546,
+            "open_issues": 548,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20725,
+            "stars": 20728,
             "topics": [
               "atmel-avr",
               "c",
@@ -459,10 +459,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-20T20:33:44Z",
-            "open_issues": 546,
+            "open_issues": 548,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20725,
+            "stars": 20728,
             "topics": [
               "atmel-avr",
               "c",
@@ -719,7 +719,7 @@
             "open_issues": 23,
             "owner": "kata0510",
             "repo": "Lily58",
-            "stars": 2298,
+            "stars": 2299,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -848,7 +848,7 @@
             "open_issues": 36,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8151,
+            "stars": 8155,
             "topics": [
               "altium",
               "awesome",
@@ -1025,7 +1025,7 @@
                 "open_issues": 36,
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8151,
+                "stars": 8155,
                 "topics": [
                   "altium",
                   "awesome",
@@ -1134,10 +1134,10 @@
                     "language": "C",
                     "license": "GPL-2.0",
                     "last_commit": "2026-09-20T20:33:44Z",
-                    "open_issues": 546,
+                    "open_issues": 548,
                     "owner": "qmk",
                     "repo": "qmk_firmware",
-                    "stars": 20725,
+                    "stars": 20728,
                     "topics": [
                       "atmel-avr",
                       "c",
@@ -1194,7 +1194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:02:03.199Z",
+    "last_updated": "2026-09-24T00:15:43.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of ergonomic split keyboards ⌨",
@@ -1206,7 +1206,7 @@
       "open_issues": 36,
       "owner": "diimdeep",
       "repo": "awesome-split-keyboards",
-      "stars": 5878,
+      "stars": 5879,
       "topics": [
         "ergonomic-keyboard",
         "hardware",
