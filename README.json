@@ -109,7 +109,7 @@
             "open_issues": 550,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20749,
+            "stars": 20753,
             "topics": [
               "atmel-avr",
               "c",
@@ -265,7 +265,7 @@
             "open_issues": 23,
             "owner": "foostan",
             "repo": "crkbd",
-            "stars": 7689,
+            "stars": 7693,
             "topics": [
               "ergonomic-keyboard",
               "keyboard",
@@ -297,7 +297,7 @@
             "open_issues": 550,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20749,
+            "stars": 20753,
             "topics": [
               "atmel-avr",
               "c",
@@ -388,7 +388,7 @@
             "open_issues": 550,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20749,
+            "stars": 20753,
             "topics": [
               "atmel-avr",
               "c",
@@ -425,7 +425,7 @@
             "open_issues": 550,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20749,
+            "stars": 20753,
             "topics": [
               "atmel-avr",
               "c",
@@ -462,7 +462,7 @@
             "open_issues": 550,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20749,
+            "stars": 20753,
             "topics": [
               "atmel-avr",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 46,
             "owner": "adereth",
             "repo": "dactyl-keyboard",
-            "stars": 3175,
+            "stars": 3176,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -719,7 +719,7 @@
             "open_issues": 23,
             "owner": "kata0510",
             "repo": "Lily58",
-            "stars": 2302,
+            "stars": 2303,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -845,10 +845,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-14T08:57:12Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8202,
+            "stars": 8208,
             "topics": [
               "altium",
               "awesome",
@@ -878,7 +878,7 @@
             "open_issues": 22,
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4972,
+            "stars": 4973,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -1022,10 +1022,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-14T08:57:12Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8202,
+                "stars": 8208,
                 "topics": [
                   "altium",
                   "awesome",
@@ -1055,7 +1055,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4972,
+                "stars": 4973,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:58:29.552Z"
@@ -1137,7 +1137,7 @@
                     "open_issues": 550,
                     "owner": "qmk",
                     "repo": "qmk_firmware",
-                    "stars": 20749,
+                    "stars": 20753,
                     "topics": [
                       "atmel-avr",
                       "c",
@@ -1194,7 +1194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:32:25.644Z",
+    "last_updated": "2026-10-11T00:41:51.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of ergonomic split keyboards ⌨",
@@ -1206,7 +1206,7 @@
       "open_issues": 36,
       "owner": "diimdeep",
       "repo": "awesome-split-keyboards",
-      "stars": 5888,
+      "stars": 5889,
       "topics": [
         "ergonomic-keyboard",
         "hardware",
