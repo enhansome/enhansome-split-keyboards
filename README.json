@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "jpconstantineau",
             "repo": "ErgoTravel",
-            "stars": 283,
+            "stars": 284,
             "topics": [
               "keyboard",
               "kicad",
@@ -106,10 +106,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 567,
+            "open_issues": 566,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20770,
+            "stars": 20774,
             "topics": [
               "atmel-avr",
               "c",
@@ -294,10 +294,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 567,
+            "open_issues": 566,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20770,
+            "stars": 20774,
             "topics": [
               "atmel-avr",
               "c",
@@ -385,10 +385,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 567,
+            "open_issues": 566,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20770,
+            "stars": 20774,
             "topics": [
               "atmel-avr",
               "c",
@@ -422,10 +422,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 567,
+            "open_issues": 566,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20770,
+            "stars": 20774,
             "topics": [
               "atmel-avr",
               "c",
@@ -459,10 +459,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 567,
+            "open_issues": 566,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20770,
+            "stars": 20774,
             "topics": [
               "atmel-avr",
               "c",
@@ -848,7 +848,7 @@
             "open_issues": 41,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8253,
+            "stars": 8256,
             "topics": [
               "altium",
               "awesome",
@@ -878,7 +878,7 @@
             "open_issues": 22,
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4974,
+            "stars": 4975,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -1025,7 +1025,7 @@
                 "open_issues": 41,
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8253,
+                "stars": 8256,
                 "topics": [
                   "altium",
                   "awesome",
@@ -1055,7 +1055,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4974,
+                "stars": 4975,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:58:29.552Z"
@@ -1134,10 +1134,10 @@
                     "language": "C",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-19T12:28:04Z",
-                    "open_issues": 567,
+                    "open_issues": 566,
                     "owner": "qmk",
                     "repo": "qmk_firmware",
-                    "stars": 20770,
+                    "stars": 20774,
                     "topics": [
                       "atmel-avr",
                       "c",
@@ -1194,7 +1194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:23:33.994Z",
+    "last_updated": "2026-10-22T00:26:48.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of ergonomic split keyboards ⌨",
