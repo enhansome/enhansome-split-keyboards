@@ -106,7 +106,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 564,
+            "open_issues": 566,
             "owner": "qmk",
             "repo": "qmk_firmware",
             "stars": 20782,
@@ -238,7 +238,7 @@
             "open_issues": 10,
             "owner": "MakotoKurauchi",
             "repo": "helix",
-            "stars": 1006,
+            "stars": 1005,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -294,7 +294,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 564,
+            "open_issues": 566,
             "owner": "qmk",
             "repo": "qmk_firmware",
             "stars": 20782,
@@ -385,7 +385,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 564,
+            "open_issues": 566,
             "owner": "qmk",
             "repo": "qmk_firmware",
             "stars": 20782,
@@ -422,7 +422,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 564,
+            "open_issues": 566,
             "owner": "qmk",
             "repo": "qmk_firmware",
             "stars": 20782,
@@ -459,7 +459,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 564,
+            "open_issues": 566,
             "owner": "qmk",
             "repo": "qmk_firmware",
             "stars": 20782,
@@ -692,7 +692,7 @@
             "open_issues": 14,
             "owner": "omkbd",
             "repo": "ErgoDash",
-            "stars": 726,
+            "stars": 727,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -845,10 +845,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T13:41:09Z",
-            "open_issues": 41,
+            "open_issues": 39,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8283,
+            "stars": 8288,
             "topics": [
               "altium",
               "awesome",
@@ -1022,10 +1022,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-12T13:41:09Z",
-                "open_issues": 41,
+                "open_issues": 39,
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8283,
+                "stars": 8288,
                 "topics": [
                   "altium",
                   "awesome",
@@ -1076,7 +1076,7 @@
                 "open_issues": 5,
                 "owner": "daprice",
                 "repo": "keyswitches.pretty",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:58:29.552Z"
@@ -1134,7 +1134,7 @@
                     "language": "C",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-19T12:28:04Z",
-                    "open_issues": 564,
+                    "open_issues": 566,
                     "owner": "qmk",
                     "repo": "qmk_firmware",
                     "stars": 20782,
@@ -1194,7 +1194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T23:51:05.700Z",
+    "last_updated": "2026-10-27T01:11:46.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of ergonomic split keyboards ⌨",
