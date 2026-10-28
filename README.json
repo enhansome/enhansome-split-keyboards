@@ -106,10 +106,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 566,
+            "open_issues": 568,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20782,
+            "stars": 20784,
             "topics": [
               "atmel-avr",
               "c",
@@ -146,7 +146,7 @@
             "open_issues": 33,
             "owner": "mattdibi",
             "repo": "redox-keyboard",
-            "stars": 1989,
+            "stars": 1990,
             "topics": [
               "assembly",
               "ergonomic-keyboard",
@@ -265,7 +265,7 @@
             "open_issues": 23,
             "owner": "foostan",
             "repo": "crkbd",
-            "stars": 7720,
+            "stars": 7719,
             "topics": [
               "ergonomic-keyboard",
               "keyboard",
@@ -294,10 +294,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 566,
+            "open_issues": 568,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20782,
+            "stars": 20784,
             "topics": [
               "atmel-avr",
               "c",
@@ -385,10 +385,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 566,
+            "open_issues": 568,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20782,
+            "stars": 20784,
             "topics": [
               "atmel-avr",
               "c",
@@ -422,10 +422,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 566,
+            "open_issues": 568,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20782,
+            "stars": 20784,
             "topics": [
               "atmel-avr",
               "c",
@@ -459,10 +459,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-10-19T12:28:04Z",
-            "open_issues": 566,
+            "open_issues": 568,
             "owner": "qmk",
             "repo": "qmk_firmware",
-            "stars": 20782,
+            "stars": 20784,
             "topics": [
               "atmel-avr",
               "c",
@@ -526,7 +526,7 @@
             "open_issues": 46,
             "owner": "adereth",
             "repo": "dactyl-keyboard",
-            "stars": 3173,
+            "stars": 3174,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -553,7 +553,7 @@
             "open_issues": 20,
             "owner": "tshort",
             "repo": "dactyl-keyboard",
-            "stars": 1375,
+            "stars": 1376,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -638,7 +638,7 @@
             "open_issues": 0,
             "owner": "FSund",
             "repo": "pteron-keyboard",
-            "stars": 172,
+            "stars": 173,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -692,7 +692,7 @@
             "open_issues": 14,
             "owner": "omkbd",
             "repo": "ErgoDash",
-            "stars": 727,
+            "stars": 728,
             "topics": []
           },
           "first_seen": "2026-08-28T05:58:29.552Z"
@@ -848,7 +848,7 @@
             "open_issues": 39,
             "owner": "kitspace",
             "repo": "awesome-electronics",
-            "stars": 8288,
+            "stars": 8292,
             "topics": [
               "altium",
               "awesome",
@@ -946,7 +946,7 @@
             "language": null,
             "license": "ISC",
             "last_commit": "2026-10-16T14:32:53Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "ad-si",
             "repo": "awesome-laser-cutting",
             "stars": 108,
@@ -980,7 +980,7 @@
                     "language": null,
                     "license": "ISC",
                     "last_commit": "2026-10-16T14:32:53Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "ad-si",
                     "repo": "awesome-laser-cutting",
                     "stars": 108,
@@ -1025,7 +1025,7 @@
                 "open_issues": 39,
                 "owner": "kitspace",
                 "repo": "awesome-electronics",
-                "stars": 8288,
+                "stars": 8292,
                 "topics": [
                   "altium",
                   "awesome",
@@ -1076,7 +1076,7 @@
                 "open_issues": 5,
                 "owner": "daprice",
                 "repo": "keyswitches.pretty",
-                "stars": 1047,
+                "stars": 1048,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:58:29.552Z"
@@ -1134,10 +1134,10 @@
                     "language": "C",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-19T12:28:04Z",
-                    "open_issues": 566,
+                    "open_issues": 568,
                     "owner": "qmk",
                     "repo": "qmk_firmware",
-                    "stars": 20782,
+                    "stars": 20784,
                     "topics": [
                       "atmel-avr",
                       "c",
@@ -1194,7 +1194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:11:46.045Z",
+    "last_updated": "2026-10-28T00:59:24.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of ergonomic split keyboards ⌨",
@@ -1206,7 +1206,7 @@
       "open_issues": 36,
       "owner": "diimdeep",
       "repo": "awesome-split-keyboards",
-      "stars": 5890,
+      "stars": 5892,
       "topics": [
         "ergonomic-keyboard",
         "hardware",
