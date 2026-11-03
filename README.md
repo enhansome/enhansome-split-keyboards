@@ -134,14 +134,14 @@
 
 [gboards.ca](https://www.gboards.ca)
 
-<https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi> ⭐ 20,790 | 🐛 581 | 🌐 C | 📅 2026-10-29
+<https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi> ⭐ 20,791 | 🐛 581 | 🌐 C | 📅 2026-10-29
 
 <img src="img/Georgi.jpg" width="400px"/> <img src="img/Georgi2.jpg" width="400px"/>
 
 ## Gergo
 
 [gboards.ca](https://www.gboards.ca)\
-[firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gergo) ⭐ 20,790 | 🐛 581 | 🌐 C | 📅 2026-10-29\
+[firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gergo) ⭐ 20,791 | 🐛 581 | 🌐 C | 📅 2026-10-29\
 [reddit](https://www.reddit.com/r/MechanicalKeyboards/search?q=gergo\&restrict_sr=on)
 
 <img src="img/Gergo.jpg" width="400px"/>  <img src="img/Gergo2.jpg" width="400px"/>
@@ -155,7 +155,7 @@
 
 ## Let's Split
 
-<https://github.com/nicinabox/lets-split-guide> ⭐ 643 | 🐛 10 | 🌐 Makefile | 📅 2023-07-06
+<https://github.com/nicinabox/lets-split-guide> ⭐ 642 | 🐛 10 | 🌐 Makefile | 📅 2023-07-06
 <https://www.maple-computing.com/collections/frontpage/products/lets-split-eh-leftovers>
 <http://groupbuys.mechboards.co.uk/shop/lets-split-eh-pcbs/>
 <https://mehkee.com/products/lets-split-pcb>
@@ -171,7 +171,7 @@
 
 ## Helix
 
-<https://github.com/MakotoKurauchi/helix> ⭐ 1,005 | 🐛 10 | 🌐 Python | 📅 2022-11-20
+<https://github.com/MakotoKurauchi/helix> ⭐ 1,006 | 🐛 10 | 🌐 Python | 📅 2022-11-20
 <https://yushakobo.jp/shop/helix-keyboard-kit/>
 
 <img src="img/Helix.jpg" width="400px"/>
@@ -189,7 +189,7 @@
 
 <https://legonut.gitbooks.io/zen-keyboard/content/>
 <https://legonut.gitbooks.io/zen-keyboard/content/flashing.html>
-<https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md> ⭐ 20,790 | 🐛 581 | 🌐 C | 📅 2026-10-29
+<https://github.com/qmk/qmk_firmware/blob/master/keyboards/zen/readme.md> ⭐ 20,791 | 🐛 581 | 🌐 C | 📅 2026-10-29
 
 <https://www.youtube.com/watch?v=1tDWJe_P5PQ>
 
@@ -220,7 +220,7 @@
 
 <https://candykeys.com/product/iris-pcb-kit-v-3>
 <https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard>
-<https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris> ⭐ 20,790 | 🐛 581 | 🌐 C | 📅 2026-10-29
+<https://github.com/qmk/qmk_firmware/tree/master/keyboards/iris> ⭐ 20,791 | 🐛 581 | 🌐 C | 📅 2026-10-29
 <https://github.com/keebio/iris-case> ⭐ 390 | 🐛 11 | 🌐 OpenSCAD | 📅 2025-07-18
 
 <img src="img/Iris.jpg" width="400px"/>
@@ -229,14 +229,14 @@
 
 <https://keeb.io/products/levinson-lets-split-w-led-backlight>
 <https://keeb.io/products/levinson-keyboard-case-plates>
-<https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md> ⭐ 20,790 | 🐛 581 | 🌐 C | 📅 2026-10-29
+<https://github.com/qmk/qmk_firmware/blob/master/keyboards/levinson/readme.md> ⭐ 20,791 | 🐛 581 | 🌐 C | 📅 2026-10-29
 
 <img src="img/Levinson.jpg" width="400px"/>
 
 ## Viterbi
 
 <https://keeb.io/products/viterbi-keyboard-pcbs-5x7-70-split-ortholinear>
-<https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md> ⭐ 20,790 | 🐛 581 | 🌐 C | 📅 2026-10-29
+<https://github.com/qmk/qmk_firmware/blob/master/keyboards/viterbi/readme.md> ⭐ 20,791 | 🐛 581 | 🌐 C | 📅 2026-10-29
 
 <img src="img/Viterbi.jpg" width="400px"/>
 
@@ -395,7 +395,7 @@
 
 ## ErgoDash
 
-<https://github.com/omkbd/ErgoDash> ⭐ 729 | 🐛 14 | 📅 2022-05-15
+<https://github.com/omkbd/ErgoDash> ⭐ 730 | 🐛 14 | 📅 2022-05-15
 
 <img src="img/Ergodash.jpg" width="400px"/>
 
@@ -408,7 +408,7 @@
 
 ## Lily58
 
-<https://github.com/kata0510/Lily58> ⭐ 2,309 | 🐛 23 | 📅 2025-12-26
+<https://github.com/kata0510/Lily58> ⭐ 2,310 | 🐛 23 | 📅 2025-12-26
 
 <img src="img/lily58_keyboard.jpg" width="400px"/>
 
@@ -457,11 +457,11 @@
 
 ## Build your own keyboard (Do it yourself - DIY)
 
-* <https://github.com/monostable/awesome-electronics> ⭐ 8,316 | 🐛 40 | 📅 2026-10-12
+* <https://github.com/monostable/awesome-electronics> ⭐ 8,321 | 🐛 39 | 📅 2026-10-12
 * <https://github.com/ruiqimao/keyboard-pcb-guide> ⭐ 4,982 | 🐛 22 | 📅 2024-07-02
-* <https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md> ⭐ 643 | 🐛 10 | 🌐 Makefile | 📅 2023-07-06
+* <https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md> ⭐ 642 | 🐛 10 | 🌐 Makefile | 📅 2023-07-06
 * [Tool for comparing split keyboard layouts](https://jhelvy.shinyapps.io/splitkbcompare/), [github](https://github.com/jhelvy/splitKbCompare) ⭐ 349 | 🐛 26 | 🌐 R | 📅 2026-02-28
-* <https://github.com/adius/awesome-laser-cutting> ⭐ 108 | 🐛 4 | 📅 2026-10-16
+* <https://github.com/adius/awesome-laser-cutting> ⭐ 108 | 🐛 0 | 📅 2026-11-02
 * A modern handwiring guide <https://geekhack.org/index.php?topic=87689.0>
 * <https://wiki.geekhack.org/index.php?title=Hard-Wiring_How-To>
 * Socketing <http://www.40percent.club/p/socketing-pro-micro.html>
@@ -486,7 +486,7 @@
 
 #### Laser Cutting
 
-* [Awesome Laser Cutting](https://github.com/ad-si/awesome-laser-cutting) ⭐ 108 | 🐛 4 | 📅 2026-10-16
+* [Awesome Laser Cutting](https://github.com/ad-si/awesome-laser-cutting) ⭐ 108 | 🐛 0 | 📅 2026-11-02
 * [lasergist](https://lasergist.com)
   * Laser-cut stainless steel
 * [Ponoko](https://ponoko.com)
@@ -498,7 +498,7 @@
 
 ### Electronics
 
-* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,316 | 🐛 40 | 📅 2026-10-12
+* [Awesome Electronics](https://github.com/kitspace/awesome-electronics) ⭐ 8,321 | 🐛 39 | 📅 2026-10-12
 * [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,982 | 🐛 22 | 📅 2024-07-02
 * [KiCad footprint library](https://github.com/daprice/keyswitches.pretty) ⭐ 1,047 | 🐛 5 | 📅 2021-10-20
 * [A modern handwiring guide](https://geekhack.org/index.php?topic=87689.0)
@@ -508,14 +508,14 @@
 
 #### PCBs
 
-* [Getting PCBs](https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md) ⭐ 643 | 🐛 10 | 🌐 Makefile | 📅 2023-07-06
+* [Getting PCBs](https://github.com/nicinabox/lets-split-guide/blob/master/getting-pcbs.md) ⭐ 642 | 🐛 10 | 🌐 Makefile | 📅 2023-07-06
 * [PCBShopper](https://pcbshopper.com)
   * Compare PCB prices from various manufacturers
 
 ### Firmware
 
 * [QMK](qmk.fm)
-  * [QMK Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,790 | 🐛 581 | 🌐 C | 📅 2026-10-29
+  * [QMK Firmware](https://github.com/qmk/qmk_firmware) ⭐ 20,791 | 🐛 581 | 🌐 C | 📅 2026-10-29
   * [QMK Toolbox](https://github.com/qmk/qmk_toolbox) ⭐ 3,117 | 🐛 25 | 🌐 C# | 📅 2026-08-20
 * [VIA](https://caniusevia.com)
 
@@ -643,4 +643,4 @@ Contributions welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
